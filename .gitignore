@@ -136,3 +136,5 @@ dmypy.json
 
 # dont need to keep generated data
 src/data/*
+
+.vscode/
